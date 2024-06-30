@@ -11,7 +11,7 @@ Full stack software engineer
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/> 👩🏻‍🎓 Studied Computer and software engineering at the University of Rwanda, Kigali<br/> 🌷 # I have experiences of coding using some languages such as Javascript , python ,java, Php, .... 💭 Currently learning about coding!<br/>
 
 * 🌍  I'm based in RWANDA
-* ✉️  You can contact me at [florien2208@gmail.com](mailto:florien2208@gmail.com)
+* ✉️  You can contact me at [mahorompakanyifloriengmail.com](mailto:mahorompakanyiflorien@gmail.com)
 * 🧠  I'm learning nest js and golang
 * ⚡  Always i like coding
 
