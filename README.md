@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Software Developer;Machine%20Learning;Contributed%20to%201500+%2B%20servers%20inside%20Discord;2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Software Developer;Machine%20Learning;Contributed%20to%201500+%2B%20servers%20inside%20Discord;2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MAHOR0 M Florien
@@ -31,7 +31,6 @@ Full stack software engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/florien2208"><img src="https://github-readme-stats.vercel.app/api?username=florien2208&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="florien2208's GitHub stats" /></a>
 
 <a href="http://www.github.com/florien2208"><img src="https://github-readme-streak-stats.herokuapp.com/?user=florien2208&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
