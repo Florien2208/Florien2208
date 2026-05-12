@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Software Developer;Machine%20Learning;Contributed%20to%201500+%2B%20servers%20inside%20Discord;2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Machine%20Learning;Contributed%20to%201500%2B%20servers%20inside%20Discord;2%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MAHOR0 M Florien
@@ -11,7 +11,7 @@ Full stack software engineer
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/> 👩🏻‍🎓 Studied Computer and software engineering at the University of Rwanda, Kigali<br/> 🌷 # I have experiences of coding using some languages such as Javascript , python ,java, Php, .... 💭 Currently learning about coding!<br/>
 
 * 🌍  I'm based in RWANDA
-* ✉️  You can contact me at [florien2208gmail.com](mailto:florien2208@gmail.com)
+* ✉️  You can contact me at [florien2208@gmail.com](mailto:florien2208@gmail.com)
 * 🧠  I'm learning nest js and golang
 * ⚡  Always i like coding
 
