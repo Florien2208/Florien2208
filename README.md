@@ -12,7 +12,6 @@ Full stack software engineer
 
 * 🌍  I'm based in RWANDA
 * ✉️  You can contact me at [florien2208@gmail.com](mailto:florien2208@gmail.com)
-* 🧠  I'm learning nest js and golang
 * ⚡  Always i like coding
 
 ### Skills
